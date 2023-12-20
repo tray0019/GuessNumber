@@ -1,1 +1,4 @@
 # GuessNumber
+Guess the Number" is a simple game that I've created in Java. Its straightforward mechanics, combined with the challenge of having a limited number of attempts, and the excitement of improving one's skill level, make it an enjoyable and replayable game. As players engage in repeated rounds, their goal is not only to guess the number correctly but also to achieve a higher skill rating, adding an element of personal achievement to the gameplay.
+
+The game's console-based interface brings a classic feel, reminiscent of early computer games. Its emphasis on mental calculation and logical reasoning makes it both entertaining and intellectually stimulating. In the future, I plan to enhance my coding by adding object-oriented programming (OOP) features and a graphical user interface (GUI).
